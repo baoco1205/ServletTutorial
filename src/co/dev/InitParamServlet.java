@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * Servlet implementation class InitParamServlet
  */
-@WebServlet("/InitParamServlet")
+
 public class InitParamServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 	private String emailSupport1;
